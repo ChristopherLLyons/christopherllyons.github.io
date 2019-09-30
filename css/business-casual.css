@@ -171,8 +171,25 @@ p {
     position: relative;
     z-index: 0;
   }
+
+  .picOfMe {
+    margin-bottom: 4rem;
+    border-radius: 10%;
+    margin-left: -3rem;
+    margin: relative;
+    display: block;
+    max-width: 1200px;
+    max-height: 800px;
+  }
+  
   .about-heading .about-heading-content {
     margin-top: -5rem;
+    position: relative;
+    z-index: 1;
+  }
+
+  .about-heading .about-heading-content2 {
+    margin-top: -2rem;
     position: relative;
     z-index: 1;
   }
